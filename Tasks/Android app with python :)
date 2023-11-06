@@ -1,0 +1,47 @@
+**How to make application with python**
+
+To make an Android application with Python, you can use one of the following frameworks:
+
+  * Kivy: its a free and open source framework for developing apps and other multi-touch apps.
+  * Beeware: Its a suit of python tools that enable you to develop plat-form naitive apps in python, includes compiler, linker and other tools to build android apps.
+  * VOC: Its a transpiler that takes Python source code and compiles it to Java-compatible bytecode, This allows you to run your Python code on the Android Virtual Machine (AVM).
+
+
+
+To make an Android application with Kivy:
+
+  1- Install Kivy on the computer.
+  2- Create a new Kivy project.
+  3- Design the app's user interface using Kivy widgets.
+  4- Write the app's logic in Python.
+  5- Build the app for Android.
+
+
+
+To make an Android application with Beeware:
+
+  1- Install Beeware on the computer.
+  2- Create a new Beeware project.
+  3- Design the app's user interface using Beeware's GUI editor.
+  4- Write the app's logic in Python.
+  5- Build the app for Android
+
+
+To make an Android application with VOC:
+
+  1- Install VOC on the computer.
+  2- Create a new VOC project.
+  3- Write the app's logic in Python.
+  4- Transpile the Python code to Java-compatible bytecode using VOC.
+  5- Build the app for Android.
+
+
+
+Once builing the Android app, install it on the Android device or deploy it to the Google Play Store.
+
+Some additional steps for making Android applications with Python:
+
+  Use a Python IDE that supports Android development, such as PyCharm or Eclipse.
+  Use a Python linter to check your code for errors and potential problems.
+  Test your app thoroughly on different Android devices.
+  Use a build automation tool to streamline the process of building and deploying your app.
