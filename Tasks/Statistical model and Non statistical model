@@ -1,0 +1,13 @@
+Statistical model:
+  These are built on the foundation of statistics.
+  mathematical formulas to represent the relationship between variables, often with a focus on probability.
+  Statistical models help uncover patterns in data, assess the likelihood of events, and make estimations.
+  They are interpretable, meaning you can understand why the model makes certain predictions.
+  Common statistical models include linear regression, logistic regression, and time series analysis.
+
+Non statistical model:
+  These don't rely on statistical assumptions or probabilities.
+  They are often referred to as machine learning models and focus on achieving accurate predictions without necessarily explaining the reasoning behind them.
+  Non-statistical models can be very complex and learn intricate patterns from data, sometimes even surpassing statistical models in predictive power.
+  their inner workings can be like a black box, making it difficult to understand how they arrive at their predictions.
+  Examples of non-statistical models include neural networks, decision trees, and support vector machines.
