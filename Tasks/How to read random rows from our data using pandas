@@ -1,0 +1,6 @@
+To read random rows form df using pandas we will use sample() function
+
+random_rows = df.sample(1)
+random_rows
+
+in this code every run will print random row from our df
