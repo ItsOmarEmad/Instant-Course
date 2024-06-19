@@ -1,0 +1,5 @@
+A lambda expression, also known simply as a lambda, is a short
+anonymous function that is defined using a special syntax
+Lambdas are used in many programming languages to create small, throwaway functions without formally defining them using the def keyword (in Python)
+or other function declaration mechanisms in other languages.
+
