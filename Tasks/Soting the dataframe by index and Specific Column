@@ -1,0 +1,14 @@
+Soting the dataframe by index: 
+ -> we will use "sort_index" by pandas:
+    -> in Ascending Order: 
+       df.sort_index(ascending=True)
+    -> in Descending Order:
+       df.sort_index(descending=True)
+
+
+Sorting the dataframe by Spicific Column:
+ -> we will use "sort_values" by pandas:
+    -> in Ascending Order:
+       df.sort_values(ascending = True)
+    -> in Descending Order:
+       df.sort_values(descending = True)
